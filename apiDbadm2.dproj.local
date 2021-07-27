@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/17 18:14:24.000.210,=C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit6.pas</Transaction>
+    <Transaction>2021/07/17 18:16:47.000.619,C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit6.pas=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal.pas</Transaction>
+    <Transaction>2021/07/17 18:16:47.000.619,C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Unit6.dfm=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal.dfm</Transaction>
+    <Transaction>2021/07/17 18:17:09.000.311,C:\Users\Carlos\Documents\Embarcadero\Studio\Projects\Project5.dproj=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\apiDbadm2.dproj</Transaction>
+    <Transaction>2021/07/17 18:17:41.000.828,C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal.dfm=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal_u.dfm</Transaction>
+    <Transaction>2021/07/17 18:17:41.000.828,C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal.pas=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\principal_u.pas</Transaction>
+    <Transaction>2021/07/17 18:29:12.000.558,=C:\Desenvolvimento\ProjetosDXE6\qb\QBXMLRP2Lib_TLB.pas</Transaction>
+    <Transaction>2021/07/17 18:35:25.000.790,=C:\Desenvolvimento\ProjetosDXE6\apiDbadm2\funcoes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
